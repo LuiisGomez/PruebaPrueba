@@ -1,0 +1,4 @@
+// BBVArqSpring log opened at 2018-05-24 12:33:03
+arqspring crearAplicacion --nombreAplicacion ldjg --modulos modulopruebawebfront,modulopruebadto,modulopruebaback,modulopruebautil,modulopruebaerror --paqueteBase com.bbva.arq.front.spring.qpri
+exit
+// BBVArqSpring log closed at 2018-05-24 12:41:34

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<notation:Diagram xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmi:id="fca8b658-5b0e-4238-9062-5a29abfcbbef" type="UML" measurementUnit="Pixel">
+  <styles xmi:type="notation:PageStyle" xmi:id="fca8b658-5b0e-4238-9062-5a29abfcbbef"/>
+  <styles xmi:type="notation:GuideStyle" xmi:id="fca8b658-5b0e-4238-9062-5a29abfcbbef"/>
+  <styles xmi:type="notation:DescriptionStyle" xmi:id="fca8b658-5b0e-4238-9062-5a29abfcbbef"/>
+  <element xmi:type="uml:Package" href="Modulopruebadto.uml#_ijphIHagEeKZEZenKE683g"/>
+</notation:Diagram>
